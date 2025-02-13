@@ -39,7 +39,7 @@ defmodule ElixirMessengerBot.Mixfile do
       {:postgrex, ">= 0.0.0"},
       {:gettext, "~> 0.16"},
       {:cowboy, "~> 1.0"},
-      {:oauther, "~> 1.1.1"},
+      {:oauther, "~> 1.3.0"},
       {:extwitter, "~> 0.12.2"},
       {:httpotion, "~> 3.1.0"},
       {:slack, "~> 0.15.0"}
